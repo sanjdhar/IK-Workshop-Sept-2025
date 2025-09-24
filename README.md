@@ -1,5 +1,5 @@
 # IK Workshop : Scale with Agentic AI
-Practical, hands-on [workshop] (https://www.eventbrite.com/e/ik-workshop-scale-with-agentic-ai-tickets-1688726348969?aff=oddtdtcreator) in Seattle designed for engineers, product managers, and technical leaders ready to move beyond basic LLM usage
+Practical, hands-on [workshop](https://www.eventbrite.com/e/ik-workshop-scale-with-agentic-ai-tickets-1688726348969?aff=oddtdtcreator) in Seattle designed for engineers, product managers, and technical leaders ready to move beyond basic LLM usage
 
 ## Hands-On Labs (HOL) overview
 The hands-on labs workshop will go across three distinct tracks based on individual skills and background.
@@ -66,6 +66,13 @@ The hands-on labs workshop will go across three distinct tracks based on individ
 
 ---
 
+## Prerequisites
+Before you get started, please check the following prerequisites. Specific lab may have other pre-requisistes listed in the lab.
 
-
+- Windows 10/11 or macOS 12 Monterey or above 
+- Python 3.10 or later
+- [Ollama](https://ollama.com/download)
+- [Gemini API](https://aistudio.google.com/app/apikey) key (free tier availble)
+- Open AI API key (optional)
+- [Serper API](https://serper.dev/) key (free account)
 
