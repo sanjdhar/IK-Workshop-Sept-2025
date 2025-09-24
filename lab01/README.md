@@ -11,6 +11,6 @@ Hint: You will need to use tools to equip your agent
 
 ## Guidance by track
 
-- Expert Track: You are free to use any agentic framework of your choice to achive the outcomes above
+- Expert Track: You are free to use any agentic framework and LLM of your choice to achive the outcomes above
 - Intermediate Track: Switch to the `intermediate` branch
 - Novice Track: Switch to the `novice` branch

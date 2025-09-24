@@ -76,3 +76,6 @@ Before you get started, please check the following prerequisites. Specific lab m
 - Open AI API key (optional)
 - [Serper API](https://serper.dev/) key (free account)
 
+## Getting Started
+Start with Lab 01 by clicking on the `lab01` folder and follwing the instructions in the README
+
