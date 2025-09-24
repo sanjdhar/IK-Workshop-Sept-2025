@@ -70,7 +70,7 @@ The hands-on labs workshop will go across three distinct tracks based on individ
 Before you get started, please check the following prerequisites. Specific lab may have other pre-requisistes listed in the lab.
 
 - Windows 10/11 or macOS 12 Monterey or above 
-- Python 3.10 or later
+- Python 3.12 or later
 - [Ollama](https://ollama.com/download)
 - [Gemini API](https://aistudio.google.com/app/apikey) key (free tier availble)
 - Open AI API key (optional)
