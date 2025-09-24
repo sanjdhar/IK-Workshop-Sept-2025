@@ -21,4 +21,4 @@ pip install -r requirements.txt
 
 2. Run the code to make sure you don't get any errors `python ./app.py`
 3. Open `app.py` and read through the code to understand how it works
-4. Add in the appropriate code for the tools sections
+4. Try each of the response types in `app.py` by commenting/uncommenting  on lines 129-135.
