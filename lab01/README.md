@@ -9,8 +9,16 @@ Hint: You will need to use tools to equip your agent
 - Write "Hello, World!" to a new file called `hello.txt` in my current folder
 - Read the file `app.py` in my current folder and explain what this code does
 
-## Guidance by track
+## Guidance
 
-- Expert Track: You are free to use any agentic framework of your choice to achive the outcomes above
-- Intermediate Track: Switch to the `intermediate` branch
-- Novice Track: Switch to the `novice` branch
+We will use the [Strands Agents](https://strandsagents.com/latest/) which is an open source SDK that takes a model-driven approach to building and running AI agents in just a few lines of code. We will additionally use Ollama witht the smallest Llama 3.2 model (llama3.2:1b) so it can run easliy on your local machine. Make sure you run `ollama pull llama3.2:1b` followed by `ollama serve` to ensure the service is running and listening on your localhost (port 1143 by default)
+
+1. Install dependencies (mainly installing strands-agents strands-agents-tools and strands-agents[ollama])
+
+```python
+pip install -r requirements.txt
+```
+
+2. Run the code to make sure you don't get any errors `python ./app.py`
+3. Open `app.py` and read through the code to understand how it works
+4. Add in the appropriate code for the tools sections
