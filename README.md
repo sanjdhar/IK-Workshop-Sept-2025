@@ -77,5 +77,6 @@ Before you get started, please check the following prerequisites. Specific lab m
 - [Serper API](https://serper.dev/) key (free account)
 
 ## Getting Started
-Start with Lab 01 by clicking on the `lab01` folder and follwing the instructions in the README
+- Start with Lab 01 by clicking on the `lab01` folder and following the instructions in the README
+- Use `git clone -b <branch-name> <repository-url>` where `<branch-name>` would be either `intermediate` or `novice`
 
